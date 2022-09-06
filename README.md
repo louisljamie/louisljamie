@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+I'm an aspiring data scientist, with no advice.
+
+Thank you for visiting!
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
