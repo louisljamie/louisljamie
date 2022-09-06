@@ -1,9 +1,10 @@
-### Hi there 👋
 
-I'm an aspiring data scientist, with no advice.
+
+## I'm an aspiring data scientist, with no advice at the moment.
 
 Thank you for visiting!
 
+###### *"I like sunsets; but I leave early because I know how it ends"*
 
 <!--
 **louisljamie/louisljamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
