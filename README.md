@@ -1,13 +1,14 @@
 ### Hi there 👋
 
+I'm an aspiring data scientist, with no advice.
+
+Thank you for visiting!
+
+
 <!--
 **louisljamie/louisljamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-I'm an aspiring data scientist, with no advice.
-
-Thank you for visiting!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
